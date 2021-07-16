@@ -1,0 +1,45 @@
+.sign-up {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    &__form {
+      width: 60%;
+      margin: 50px auto;
+    }
+
+
+  }
+
+  .red {
+    width: 15%;
+    height: 6px;
+    margin: 3px;
+    background-color: red;
+    border-radius: 4px;
+  }
+
+  .orange {
+    width: 25%;
+    height: 6px;
+    margin: 3px;
+    background-color: rgb(255, 123, 0);
+    border-radius: 4px;
+
+  }
+
+  .yellow {
+    width: 35%;
+    height: 6px;
+    margin: 3px;
+    background-color: rgb(255, 251, 0);
+    border-radius: 4px;
+  }
+
+  .green {
+    width: 45%;
+    height: 6px;
+    margin: 3px;
+    background-color: rgb(0, 255, 0);
+    border-radius: 4px;
+  }
